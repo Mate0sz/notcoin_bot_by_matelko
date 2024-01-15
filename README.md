@@ -19,3 +19,6 @@ po zainstalowaniu sie wszystkiego co potrzeba
 wpisujecie:
 python main.py
 i odpala wam sie bot
+
+Jeżeli potrzebujecie pomocy zapraszam do kontaktu discord lub telegram jest na stronie poniżej 
+matelko.xyz
